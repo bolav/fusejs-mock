@@ -1,0 +1,23 @@
+{
+  "name": "FuseJS",
+  "version": "1.0.0",
+  "description": "Mock library for FuseJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bolav/fusejs-mock.git"
+  },
+  "author": "Bjorn-Olav Strand",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bolav/fusejs-mock/issues"
+  },
+  "homepage": "https://github.com/bolav/fusejs-mock#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  }
+}
